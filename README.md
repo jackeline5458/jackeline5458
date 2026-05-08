@@ -10,11 +10,9 @@
 * APIs REST
 * Git e GitHub
 
-
 📚 Certificações
 
 ✔ Microsoft Azure Fundamentals (AZ-900)
-
 
 🚀 Projetos em destaque:
 
