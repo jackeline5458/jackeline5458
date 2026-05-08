@@ -2,7 +2,7 @@
 
 💻 Profissional de Tecnologia da Informação com experiência em ambiente bancário de grande porte, atuando em análise e remediação de vulnerabilidades, testes funcionais (QA), documentação técnica e governança de aplicações.
 
-🎯 Atualmente estudando:
+##🎯 Atualmente estudando:
 
 * Java
 * Microsserviços
@@ -10,11 +10,11 @@
 * APIs REST
 * Git e GitHub
 
-📚 Certificações
+##📚 Certificações
 
 ✔ Microsoft Azure Fundamentals (AZ-900)
 
-🚀 Projetos em destaque:
+##🚀 Projetos em destaque:
 
 * Sistema Bancário em Java
 * Projeto Final Bloco 01
