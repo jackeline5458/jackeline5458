@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Jackeline
 
-💻 Estudante e desenvolvedora em formação apaixonada por tecnologia e programação.
+💻 Profissional de Tecnologia da Informação com experiência em ambiente bancário de grande porte, atuando em análise e remediação de vulnerabilidades, testes funcionais (QA), documentação técnica e governança de aplicações.
 
 🎯 Atualmente estudando:
 
@@ -9,6 +9,10 @@
 * Programação Assíncrona
 * APIs REST
 * Git e GitHub
+
+📚 Certificações
+
+✔ Microsoft Azure Fundamentals (AZ-900)
 
 🚀 Projetos em destaque:
 
